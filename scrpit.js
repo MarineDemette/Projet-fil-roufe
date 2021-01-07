@@ -1,7 +1,7 @@
 const button = document.querySelector("#button");
 const text = document.querySelector("#texte");
 const body = document.querySelector("body");
-
+ 
 
 let theme = "light"
 
